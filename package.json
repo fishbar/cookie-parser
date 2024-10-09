@@ -10,7 +10,7 @@
     "middleware"
   ],
   "dependencies": {
-    "cookie": "0.1.2",
+    "cookie": "0.7.0",
     "cookie-signature": "1.0.4"
   },
   "devDependencies": {
